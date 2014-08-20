@@ -1,0 +1,6 @@
+core = 7.x
+name = Test Migration
+description = "A sandbox module for zietlow to test migration code."
+package = sandbox
+
+files[] = test_migration.module
